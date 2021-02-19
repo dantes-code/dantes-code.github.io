@@ -1,2 +1,2 @@
-# http//:dantes-code.github.io
+# http://dantes-code.github.io
 JavaScript Clock
