@@ -1,0 +1,20 @@
+body{
+    background-color: bisque;
+    font-family: 'Aclonica';font-size: 22px;
+}
+h1{
+    text-align: center;
+    font-size: 5rem;
+    color: brown;
+}
+p{
+    text-align: center;
+    font-size: 2rem;
+    color: brown;
+}
+#showTime{
+    font-size: 16rem;
+    border : 7px solid #8d659a;
+    border-radius: 20px;
+    color : black;
+}
